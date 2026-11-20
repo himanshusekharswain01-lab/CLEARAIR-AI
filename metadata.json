@@ -1,0 +1,6 @@
+{
+  "name": "ClearAir AI",
+  "description": "Personalized air quality, winter-smog management, indoor air guidance, sustainable travel planning, and community air observations powered by grounded GenAI.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
